@@ -10,7 +10,9 @@
 
 \- Lớp: 23T\_DT2
 
-\## Mục tiêu 
+\-GitHub: trankhahao7
+
+\## Mục tiêu
 
 Tìm hiểu Git và GitHub.
 
